@@ -24,3 +24,6 @@ Este proyecto es una aplicación **ASP.NET Core** que implementa un CRUD para la
    "ConnectionStrings": {
      "DefaultConnection": "Server=SU_SERVIDOR;Database=SU_BASE_DE_DATOS;User Id=SU_USUARIO;Password=SU_CONTRASEÑA;"
    }
+
+
+![image](https://github.com/user-attachments/assets/67a3b3cc-1f8d-41c8-a866-552c0c66ed90)
